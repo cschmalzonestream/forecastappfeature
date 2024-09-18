@@ -6,5 +6,5 @@ metadata:
   name: feature
 spec:
   lifecycle: experimental
-  owner: my-team
+  owner: guests
   type: service
