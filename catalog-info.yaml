@@ -3,6 +3,7 @@ kind: Component
 metadata:
   annotations:
     backstage.io/kubernetes-id: forecastappfeature
+    dynatrace.com/guardian-tags: 'service=forecastappfeature'
   name: feature
   description: forecastapp
   links:
