@@ -4,6 +4,7 @@ metadata:
   annotations:
     backstage.io/kubernetes-id: forecastappfeature
   name: feature
+  description: forecastapp
 spec:
   lifecycle: experimental
   owner: guests
