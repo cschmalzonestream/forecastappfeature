@@ -5,6 +5,10 @@ metadata:
     backstage.io/kubernetes-id: forecastappfeature
   name: feature
   description: forecastapp
+  links:
+    - url: http://localhost:8889
+      title: launch app
+      icon: dashboard
 spec:
   lifecycle: experimental
   owner: guests
